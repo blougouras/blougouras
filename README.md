@@ -1,5 +1,5 @@
 ## Hello World!, Meu nome é Luiz Henrique Blougouras Archeleigar
-### Estou atualmente no 3° Semestre de Engenharia da Computação pela Faculdade Impacta de Tecnologia
+### Estou atualmente cursando Engenharia da Computação pela Faculdade Impacta de Tecnologia
 ### No momento estou em procura do meu primeiro estágio
 
 ### Minhas Redes Sociais:
