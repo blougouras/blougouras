@@ -1,6 +1,6 @@
 ## Hello World!, Meu nome é Luiz Henrique Blougouras Archeleigar
 ### Estou atualmente cursando Engenharia da Computação pela Faculdade Impacta de Tecnologia
-### No momento estou em procura do meu primeiro estágio
+### Atualmente sou estagiário no Bradesco!
 
 ### Minhas Redes Sociais:
 
