@@ -1,5 +1,14 @@
-## Hello World!, Meu nome é Luiz Henrique Blougouras Archeleigar
-### Estou cursando Engenharia da Computação pela Faculdade Impacta de Tecnologia
+# Bem vindo ao meu perfil
+
+🎓 Estudante de Engenharia da Computação
+
+💻 Focado em desenvolvimento Back-end e Engenharia de Dados
+
+🚀 Sempre aprendendo e buscando evoluir na área de tecnologia
+
+## 🧠 Sobre mim
+
+Sou entusiasta da área de tecnologia e hardware e estou em constante evolução profissional. Possuo interesse em desenvolvimento de APIs, análise de dados e criação de soluções escaláveis, além de experiência na construção de pipelines de dados e processos de ETL.
 
 ### Minhas Redes Sociais:
 
@@ -7,39 +16,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lblougouras/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luiz9050/)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blougouras&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-### Linguagens mais utilizadas:
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blougouras&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-## Skills
-
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### Back-End
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-
-### Frameworks
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### Banco de Dados
-
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-
-### Tools
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠 Skills
+- Python
+- C#
+- APIs REST
+- Git e GitHub
+- Banco de Dados (SQL)
