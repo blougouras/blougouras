@@ -1,24 +1,16 @@
-# Bem vindo ao meu perfil
+# 💫 About Me:
+Sou Bacharel em Engenharia da Computação, apaixonado por tecnologia e focado em desenvolvimento Back-end e Engenharia de Dados. Tenho experiência com Python, SQL, PostgreSQL, Git e consumo de APIs REST, desenvolvendo projetos próprios que envolvem ETL, automação e processamento de dados. Estou em constante aprendizado, aprofundando meus conhecimentos em arquitetura de software, desenvolvimento de APIs, bancos de dados e boas práticas de programação. Meu objetivo é iniciar minha carreira na área de tecnologia, contribuindo com soluções eficientes e escaláveis enquanto evoluo continuamente como profissional.
 
-🎓 Estudante de Engenharia da Computação
 
-💻 Focado em desenvolvimento Back-end e Engenharia de Dados
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lblougouras) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizblougouras) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizblougouras5@gmail.com) 
 
-🚀 Sempre aprendendo e buscando evoluir na área de tecnologia
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=blougouras&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=blougouras&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=blougouras&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🧠 Sobre mim
-
-Sou entusiasta da área de tecnologia e hardware e estou em constante evolução profissional. Possuo interesse em desenvolvimento de APIs, análise de dados e criação de soluções escaláveis, além de experiência na construção de pipelines de dados e processos de ETL.
-
-### Minhas Redes Sociais:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizblougouras/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lblougouras/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luiz9050/)
-
-## 🛠 Skills
-- Python
-- C#
-- APIs REST
-- Git e GitHub
-- Banco de Dados (SQL)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
